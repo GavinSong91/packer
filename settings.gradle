@@ -1,0 +1,4 @@
+println("setting 开始配置")
+include ':app'
+rootProject.name = "Packer"
+println("setting 配置完成")
